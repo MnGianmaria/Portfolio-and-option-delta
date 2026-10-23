@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+tensorflow
+yfinance
+openpyxl
+ipython
+jinja2
+jupyter
